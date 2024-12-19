@@ -17,10 +17,10 @@ Kami adalah kelompok yang terdiri dari individu-individu yang berkomitmen untuk 
 Proyek ini bertujuan untuk Melakukan eksperimen dengan data yahoo answer berikut dengan Framework NLP Pytorch. buat dalam file .py dan modul. Gunakan word embedding Word2Vec atau GloVe.
 
 ## **Pembagian Tugas**
-- **[Gede Moena]**: Membuat Model Transformer.
-- **[Evan Aprianto]**: Membuat Model LSTM.
-- **[Muhammad Farhan]**: Membuat Model BERT.
-- **[Yosia Letare Banurea]**: Membuat Model Fast Text.
+- **Gede Moena**: Membuat Model Transformer.
+- **Evan Aprianto**: Membuat Model LSTM.
+- **Muhammad Farhan**: Membuat Model BERT.
+- **Yosia Letare Banurea**: Membuat Model Fast Text.
 
 
 ## **Terima Kasih**
