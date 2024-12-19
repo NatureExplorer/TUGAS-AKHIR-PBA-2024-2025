@@ -6,7 +6,7 @@
 ## **Anggota Kelompok**
 Kami adalah kelompok yang terdiri dari individu-individu yang berkomitmen untuk menyelesaikan tugas ini dengan kerja sama dan dedikasi. Berikut adalah perkenalan anggota kelompok kami:
 
-| **Nama**            | **NIM/Nomor Identitas** |
+| **Nama**            | **NIM** |
 |----------------------|-------------------------|
 | Gede Moena       | 121450014            |
 | Evan Aprianto       | 121450024            |
